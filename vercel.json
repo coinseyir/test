@@ -2,7 +2,7 @@
   "version": 2,  
   "functions": {  
     "check_missed_blocks.py": {  
-      "runtime": "python3.9"  
+      "runtime": "python3.9"  // veya python3.10  
     }  
   }  
-}
+}  
